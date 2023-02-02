@@ -15,7 +15,6 @@
     Grupo
     All-in
 
-
 item1 = new Item('Fazer atividade', '2023-02-06', 'alta');
 item2 = new Item('Ler um livro', '2023-02-06', 'normal');
 item3 = new Item('Jogar Pokemon', '2023-02-06', 'altissima');
