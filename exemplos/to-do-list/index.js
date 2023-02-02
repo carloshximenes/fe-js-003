@@ -78,3 +78,5 @@ formulario.appendChild(botao);
 const divNovaAtividade = document.querySelector('.nova-atividade');
 divNovaAtividade.appendChild(formulario);
 
+console.log('teste');
+
